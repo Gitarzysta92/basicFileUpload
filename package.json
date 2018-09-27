@@ -1,0 +1,24 @@
+{
+  "name": "basicfileupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gitarzysta92/basicFileUpload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gitarzysta92/basicFileUpload/issues"
+  },
+  "homepage": "https://github.com/Gitarzysta92/basicFileUpload#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "formidable": "^1.2.1"
+  }
+}
