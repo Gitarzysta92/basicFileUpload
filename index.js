@@ -1,3 +1,3 @@
-var server = require('./modules/server');
+const server = require('./app/server');
 
-server.start();
+server.start(3000);
